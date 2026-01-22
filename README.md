@@ -1,4 +1,4 @@
 # Visual-Prompt-Studio-Portfolio
-**Anajulia Cortes**
-**Art Appreciation Section 82**
-**This is my prompt portfolio for my Art Appreciation class.**
+**Name**Anajulia Cortes
+**Course**Art Appreciation Section 82
+**Description**This is my prompt portfolio for my Art Appreciation class.
