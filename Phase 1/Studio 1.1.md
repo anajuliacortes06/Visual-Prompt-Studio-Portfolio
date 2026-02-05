@@ -1,1 +1,3 @@
-
+**Assignment Title**: Visual Prompt Studio Phase 1.1
+**Prompt**:Create a mural painted in a tall white building, designed as a form of social protest against immigration. The mural should be located in a busy street where people stop to look at it. Introduce different emotions felt during the terrible act. The main message should be to raise awareness about the terrible act of separating people from their loved ones. The subject matter should be the phrase "No one is illegal on stolen land" by Billie Eilish. The style should be different shades of red to emphasize urgency and importance.
+**Vocabulary Breakdown**: Medium: Mural. Meaning: Raise awareness against immigration. Subject Matter: The phrase. This mural is Representational Art. 
